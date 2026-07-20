@@ -59,7 +59,7 @@ Plus a sixth, quieter one: **care at the edges** — design empty, loading, erro
 
 ## Current register (July 2026 — reference, not gospel)
 
-What's trending on X right now, useful as *examples* of the moves in action: dark UI + one saturated accent (hot-pink/lime/orange); oversized fintech balance numbers; cream/pastel friendly onboarding; big editorial/serif or heavy condensed headlines; iridescent/aurora gradients; monospace developer aesthetic; spring-physics micro-interactions; real-device product-shot mockups. Treat all of it as dated-by-default styling layered over the five moves.
+What's trending right now, useful as *examples* of the moves in action: Apple-style liquid-glass translucency and frosted depth layers; AI-copilot side panels and inline assistant chips docked beside content rather than replacing it; sci-fi/spaceship-dashboard neon grids on dark UI; atmospheric soft-glow, smoky-gradient hero art (replacing flat aurora-mesh); bold sculptural 3D objects — liquid-metal blobs, warped ribbons — as hero art; oversized fintech balance numbers; cream/pastel friendly onboarding; scattered/modular grid layouts breaking the rigid 12-column template; cinematic hero video backgrounds; spring-physics micro-interactions. Treat all of it as dated-by-default styling layered over the five moves.
 
 ## How It Goes Wrong (the tells)
 
