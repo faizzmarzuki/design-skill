@@ -1,13 +1,16 @@
-# otomata
+# design-skill
 
-## Claude Code skills
+Personal Claude Code skill: **design-taste** (`SKILL.md` at repo root).
 
-### design-taste
-Durable UI/design judgment plus a "current register" of live trends
-(`design-taste/SKILL.md`).
+Durable UI/design judgment plus a "Current register" of live trends. The
+Current register section is refreshed automatically every 2 hours by a scheduled
+Claude Code cloud agent (web-sourced trend research) as a rolling PR on branch
+`design-trends-auto` into `main`. The five moves and guardrails stay stable; only
+the trend snapshot and its date change. Review each PR before merging.
 
-The **Current register** section is refreshed automatically every 2 hours by a
-scheduled Claude Code cloud agent that researches current design trends via web
-search. The five moves and the guardrails are stable — only the trend snapshot
-and its date change. Each refresh arrives as a PR on the `design-trends-auto`
-branch; review before merging.
+## Local sync
+This repo is cloned directly as `~/.claude/skills/design-taste/`, so:
+
+    git -C ~/.claude/skills/design-taste pull
+
+updates the skill Claude Code actually loads.
