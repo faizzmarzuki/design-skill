@@ -7,7 +7,6 @@
 - [10 UX Patterns Every AI Chat Interface Needs](https://www.youtube.com/watch?v=bppkpufBJsI) - new this week; concrete AI-product interaction patterns, relevant as AI UI becomes a core trend.
 - [Web Design Trends 2026: What's In And What's Out](https://www.youtube.com/watch?v=Tv6SkPWfSyI) - carried over from earlier queue; still surfaces in search for current web trends, comparative teardown of aging vs emerging patterns.
 - [Steal These Web Design Trends 2026](https://www.youtube.com/watch?v=waHuVF3XuMA) - carried over; trend breakdown built from tracking hundreds of live websites.
-- [5 Huge Web Design Trends in 2026](https://www.youtube.com/watch?v=bfpzPSwE4_A) - carried over; concise breakdown incl. dark-mode-by-default, with site examples.
 
 ## Week of 2026-08-24
 
